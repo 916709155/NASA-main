@@ -1,0 +1,21 @@
+=== Run 1 ===
+Return code: 0
+Standard output:
+0.855
+[0m
+Standard error:
+
+=== Run 2 ===
+Return code: 0
+Standard output:
+0.844
+[0m
+Standard error:
+
+=== Run 3 ===
+Return code: 0
+Standard output:
+0.847
+[0m
+Standard error:
+
